@@ -1,4 +1,4 @@
-# zanysoft/laravel-zip
+# zanysoft/laravel-zip NICK VERSION
 
 > laravel-zip is the world's leading zip utility for file compression and backup.
 
